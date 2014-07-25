@@ -1,0 +1,19 @@
+# Output products list for <tcam_usr>
+tcam_usr.ngc
+tcam_usr.v
+tcam_usr.veo
+tcam_usr.xco
+tcam_usr_cam_control_12.ngc_xst.xrpt
+tcam_usr_cam_decoder_10.ngc_xst.xrpt
+tcam_usr_cam_decoder_2.ngc_xst.xrpt
+tcam_usr_cam_decoder_3.ngc_xst.xrpt
+tcam_usr_cam_decoder_4.ngc_xst.xrpt
+tcam_usr_cam_decoder_5.ngc_xst.xrpt
+tcam_usr_cam_decoder_6.ngc_xst.xrpt
+tcam_usr_cam_decoder_7.ngc_xst.xrpt
+tcam_usr_cam_decoder_8.ngc_xst.xrpt
+tcam_usr_cam_decoder_9.ngc_xst.xrpt
+tcam_usr_cam_input_1.ngc_xst.xrpt
+tcam_usr_cam_match_enc_11.ngc_xst.xrpt
+tcam_usr_flist.txt
+tcam_usr_xmdf.tcl
